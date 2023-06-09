@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nome":"Jarvis",
+            "email":"",
+            "pass":"root",
+            "createData":"09/06/2022",
+            "deleteData":""
+        }
+    ]
+}
